@@ -18,7 +18,7 @@ Below are the following programs and tools needed to follow along during the wor
 
 * Create a free account on Contentful.com. If you already have an account, have at least 3 content types avaliable for use in your space.
 * Have a GitHub account (we will be cloning this repository during the workshop)
-* Have Git, Node, React installed on your machine. 
+* Have Git and Node installed on your machine. 
 * Access to the command line (ie Terminal on Mac).
 * A text editor of your choice (VS Code, Sublime, Atom, etc).
 
