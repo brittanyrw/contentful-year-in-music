@@ -1,4 +1,4 @@
-# Contentful Workshop: Your Year in Music
+# Contentful Workshop: Your Year in Music [WIP]
 
 We really love music at Contentful — so much that we even have our own company band. In this workshop, we’ll marry our passion for content and tunes to give you an introduction to headless content management and show you that a CMS can be used to bring infinite ideas to life beyond just your typical blogs.
 
@@ -14,4 +14,13 @@ This workshop is being taught by Developer Advocate Brittany Walker (aka Musical
 
 # Getting Started
 
-[Coming Soon]
+Below are the following programs and tools needed to follow along during the workshop:
+
+* Create a free account on Contentful.com. If you already have an account, have at least 3 content types avaliable for use in your space.
+* Have a GitHub account (we will be cloning this repository during the workshop)
+* Have Git, Node, React installed on your machine. 
+* Access to the command line (ie Terminal on Mac).
+* A text editor of your choice (VS Code, Sublime, Atom, etc).
+
+# [Additional information coming soon]
+
