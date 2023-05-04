@@ -1,5 +1,4 @@
 # Contentful Workshop: Your Year in Music
-A music themed workshop project for Render ATL.
 
 We really love music at Contentful — so much that we even have our own company band. In this workshop, we’ll marry our passion for content and tunes to give you an introduction to headless content management and show you that a CMS can be used to bring infinite ideas to life beyond just your typical blogs.
 
